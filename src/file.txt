@@ -1,0 +1,12 @@
+		
+ 1:- Press space to jump. 
+	
+ 2:- Press downKey to crouch.
+	
+ 3:- Avoid hitting hurdles.
+		
+ 4:- Avoid hitting birds.
+		
+ 5:- Eat hearts to gain more lives.
+	
+	HAVE GOOD GAME :)
