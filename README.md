@@ -1,7 +1,7 @@
-<h1 align="center">T-Rex Game in Assembly</h1>
+<h1 align="center">T-Rex Dino Game in Assembly</h1>
 
 ### Description
-A classic `T-Rex Game` in `Assembly Language` with different types of `Hurdles`, `Score Boosters`, `Day and Night Graphics`, and much more interesting stuff.
+A classic `T-Rex Dino Game` in `Assembly Language` with different types of `Hurdles`, `Score Boosters`, `Day and Night Graphics`, and much more interesting stuff.
 
 ### Manual
 1) Use these command in dosbox to `Compile` and `Run` the code:
